@@ -1,0 +1,6 @@
+{
+  "name": "StockBoard",
+  "description": "A comprehensive UI for domestic and international stocks and ETFs, designed for amateur and professional investors. Features real-time market dashboard, categories, and deep stock analysis with charts and order books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
